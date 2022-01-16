@@ -1,0 +1,34 @@
+{
+  "name": "ts-template",
+  "version": "1.0.0",
+  "description": "Template for typescript projects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": true,
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "dist": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitdownrightnow2552/ts-template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Lana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sitdownrightnow2552/ts-template/issues"
+  },
+  "homepage": "https://github.com/sitdownrightnow2552/ts-template#readme",
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "typescript": "^4.4.3"
+  },
+  "volta": {
+    "node": "16.13.2",
+    "npm": "8.3.1"
+  }
+}
