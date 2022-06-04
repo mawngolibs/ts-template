@@ -1,6 +1,6 @@
 # ts-template
 
-Template for building command line tool with yargs and typescript
+Template for building tools with typescript
 
 ## Run project
 
