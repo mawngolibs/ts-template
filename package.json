@@ -13,17 +13,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sitdownrightnow2552/ts-template.git"
+    "url": "git+https://github.com/lana-collections/ts-template.git"
   },
   "keywords": [
-    "template"
+    "template",
+    "typescript"
   ],
   "author": "Lana",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sitdownrightnow2552/ts-template/issues"
+    "url": "https://github.com/lana-collections/ts-template/issues"
   },
-  "homepage": "https://github.com/sitdownrightnow2552/ts-template#readme",
+  "homepage": "https://github.com/lana-collections/ts-template#readme",
   "devDependencies": {
     "@types/jest": "^27.4.0",
     "@types/node": "^16.10.2",
