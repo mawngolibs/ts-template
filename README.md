@@ -1,29 +1,25 @@
 # ts-template
 
-Template for building tools with typescript
+Template for building tools in typescript, with webpack included.
 
-## Development
+### Development
 
-### Run project
+## Run project
 
-To build and run project
-
-```shell
-npm start
-```
-
-To build project into dist folder
+First run the webpack watcher
 
 ```shell
-npm run dist
+npm run watch
 ```
 
-### Build project
+Then run the tool with
+
+```shell
+npm start -- --help
+```
+
+## Build project
 
 ```shell
 npm build
 ```
-
-### Webpack
-
-Check out with-webpack branch for template with webpack
